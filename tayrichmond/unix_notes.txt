@@ -1,0 +1,64 @@
+Why Unix?
+Apps can run inside of a server.
+  along with all of their other devices
+
+Unix is the de facto standard
+
+More stable, faster, and more compatible
+
+Free and open
+
+What is Unix?
+An operating system
+
+multiprocess, multiuser
+
+released in 1973
+
+linux is unix like core
+
+Developed for Developers:
+Data as plaintext files
+Made of many small programs
+Input-output Redirection
+
+
+Unix Kernel:
+just a program
+manages the hardware
+safe from hackers
+
+
+Unix Shell:
+another program
+user interface that connects you to the kernel
+command line user interface
+faster then graphical user interface
+
+
+.md - stands for markdown
+
+
+Commands:
+pwd - print working directory
+cd - change directory
+ls - list
+man - brings up manual on command
+history - prints command history
+tail - displays last part of file
+less - brings text up in page form
+mkdir - make a new directory
+mv - move something to another directory, can be used to rename something as well
+touch - creates a blank file
+
+Flags:
+-l: long form alphabetically
+-t: prints list in order of last modified
+-r: prints list reverse alphabetically
+
+Arguments:
+.. - parent directory
+. - current directory
+| - output of program to another program
+> - output of program to a file
+>> - out put to existing file and append information

@@ -1,0 +1,24 @@
+Git steps:
+git init - add .git repository to commit files
+git add - adds files to the .git repository
+git commit - saves files to .git repository
+git rm - removes file from .git repository
+
+    Parts of a Commit:
+    Author
+    Time Stamp
+    Message
+    Unique ID
+    Changes (files/lines)
+
+    Git Workflow:
+    Modify > Add > Commit
+
+Git Commands:
+git status - shows status
+git diff - what is dirty
+git log - shows all commits
+git mv - rename a file in git
+git branch <name> - create a new branch named <name>
+git branch - lists all branches
+git checkout - switch to different branch
